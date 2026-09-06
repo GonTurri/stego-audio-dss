@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Archivos de salida generados por el notebook
+audio_stego.wav
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
